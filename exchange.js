@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function(){
     const convert = document.getElementById('convert');
     const result = document.getElementById('result');
     
-    const API_KEY="YuUr+8ZagOx4tBFk/224wQ==5gLaqHJiB488tx0d";
+    
     const apiUrl="https://api.api-ninjas.com/v1/exchangerate?pair=USD_";
     
     convert.addEventListener('click', () => {
